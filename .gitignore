@@ -1,4 +1,4 @@
-./node_modules
-./sachvui_pdf/
-./sachvui_zip/
+/node_modules
+/sachvui_pdf/
+/sachvui_zip/
 node_modules

@@ -1,0 +1,137 @@
+[
+    {
+        "id": "5edcb1aeea1999001b1a6282",
+        "name": "Cuồng Thám 3",
+        "normalized_name": "cuong tham 3",
+        "slug": "cuong-tham-3-1591521710",
+        "author": "Khoáng Hải Vong Hồ",
+        "normalized_author": "khoang hai vong ho",
+        "image": "https://static.epub.vn/epubvn-image/optimized-cover1591521710264-blob.jpg"
+    },
+    {
+        "id": "5edcfb72ea1999001b1a6dc9",
+        "name": "The Fountainhead",
+        "normalized_name": "the fountainhead",
+        "slug": "the-fountainhead-1591540594",
+        "author": "Ayn & Peikoff Rand",
+        "normalized_author": "ayn & peikoff rand",
+        "image": "https://static.epub.vn/epubvn-image/optimized-cover1591540594205-blob.jpg"
+    },
+    {
+        "id": "5edd8f03ea1999001b1a7c09",
+        "name": "White Rage",
+        "normalized_name": "white rage",
+        "slug": "white-rage-1591578371",
+        "author": "Carol Anderson",
+        "normalized_author": "carol anderson",
+        "image": "https://static.epub.vn/epubvn-image/optimized-cover1591578370248-blob.jpg"
+    },
+    {
+        "id": "5eddce94abe403001bac31b1",
+        "name": "Duc Phat",
+        "normalized_name": "duc phat",
+        "slug": "duc-phat-1591594644",
+        "author": "Vien Minh",
+        "normalized_author": "vien minh",
+        "image": "https://static.epub.vn/epubvn-image/optimized-cover1591594644334-oc-yoga.jpg"
+    },
+    {
+        "id": "5edfa243abe403001bac7547",
+        "name": "Nhật ký XIZ",
+        "normalized_name": "nhat ky xiz",
+        "slug": "nhat-ky-xiz-1591714371",
+        "author": "Song Hà",
+        "normalized_author": "song ha",
+        "image": "https://static.epub.vn/epubvn-image/optimized-cover1591714371205-blob.jpg"
+    },
+    {
+        "id": "5ee00645abe403001bac8037",
+        "name": "bank rating and bank performance",
+        "normalized_name": "bank rating and bank performance",
+        "slug": "bank-rating-and-bank-performance-1591739973",
+        "author": "Su",
+        "normalized_author": "su",
+        "image": "https://static.epub.vn/epubvn-image/optimized-cover1591739972828-175949c4-def5-4d8b-a1ad-fa59d7d4b776.jpg"
+    },
+    {
+        "id": "5ee0988eabe403001bac94eb",
+        "name": "The Handmade's Tale",
+        "normalized_name": "the handmade's tale",
+        "slug": "the-handmades-tale-1591777422",
+        "author": "Margaret Atwood",
+        "normalized_author": "margaret atwood",
+        "image": "https://static.epub.vn/epubvn-image/optimized-cover1591777421665-the-handmaid-s-tale.jpg"
+    },
+    {
+        "id": "5ee11900abe403001bacabf9",
+        "name": "Đừng Hành Xử Như Người Bán Hãy Suy Nghĩ Tựa Người Mua",
+        "normalized_name": "dung hanh xu nhu nguoi ban hay suy nghi tua nguoi mua",
+        "slug": "dung-hanh-xu-nhu-nguoi-ban-hay-suy-nghi-tua-nguoi-mua-1591810304",
+        "author": "Wally Wood",
+        "normalized_author": "wally wood",
+        "image": "https://static.epub.vn/epubvn-image/optimized-cover1591810304043-blob.jpg"
+    },
+    {
+        "id": "5ee11980abe403001bacac0b",
+        "name": "Tôi Đã Kiếm 2 Triệu Đô Từ Thị Trường Chứng Khoán Như Thế Nào?",
+        "normalized_name": "toi da kiem 2 trieu do tu thi truong chung khoan nhu the nao?",
+        "slug": "toi-da-kiem-2-trieu-do-tu-thi-truong-chung-khoan-nhu-the-nao-1591810432",
+        "author": "Nicolas Darvas",
+        "normalized_author": "nicolas darvas",
+        "image": "https://static.epub.vn/epubvn-image/optimized-cover1591810432459-blob.jpg"
+    },
+    {
+        "id": "5ee11d32abe403001bacac64",
+        "name": "Bá tước Monto Crixto",
+        "normalized_name": "ba tuoc monto crixto",
+        "slug": "ba-tuoc-monto-crixto-1591811378",
+        "author": "Alexandre Dumas",
+        "normalized_author": "alexandre dumas",
+        "image": "https://static.epub.vn/epubvn-image/optimized-cover1591811377637-blob.jpg"
+    },
+    {
+        "id": "5ee1b4d8abe403001bacb928",
+        "name": "The lean start up",
+        "normalized_name": "the lean start up",
+        "slug": "the-lean-start-up-1591850200",
+        "author": "Eric Ries",
+        "normalized_author": "eric ries",
+        "image": "https://static.epub.vn/epubvn-image/optimized-cover1591850200369-20200611_113450.jpg"
+    },
+    {
+        "id": "5ee1c8c9abe403001bacbc6a",
+        "name": "Uncovered: Weird, Weird Stories",
+        "normalized_name": "uncovered: weird, weird stories",
+        "slug": "uncovered-weird-weird-stories-1591855305",
+        "author": "Paul Jennings",
+        "normalized_author": "paul jennings",
+        "image": "https://static.epub.vn/epubvn-image/optimized-cover1591855304547-30337576440.jpg"
+    },
+    {
+        "id": "5ee1ca5eabe403001bacbc95",
+        "name": "Unstoppable!: Mad Mad Stories",
+        "normalized_name": "unstoppable!: mad mad stories",
+        "slug": "unstoppable-mad-mad-stories-1591855710",
+        "author": "Paul Jennings",
+        "normalized_author": "paul jennings",
+        "image": "https://static.epub.vn/epubvn-image/optimized-cover1591855710044-51fqqb6tfnl._sx299_bo1,204,203,200_.jpg"
+    },
+    {
+        "id": "5ee1cd29abe403001bacbd1a",
+        "name": "Unreal!: Eight Surprising Stories",
+        "normalized_name": "unreal!: eight surprising stories",
+        "slug": "unreal-eight-surprising-stories-1591856425",
+        "author": "Paul Jennings",
+        "normalized_author": "paul jennings",
+        "image": "https://static.epub.vn/epubvn-image/optimized-cover1591856425540-9780140375770-us.jpg"
+    },
+    {
+        "id": "5ee1d005abe403001bacbdbe",
+        "name": "Uncanny!: Even More Surprising Stories",
+        "normalized_name": "uncanny!: even more surprising stories",
+        "slug": "uncanny-even-more-surprising-stories-1591857157",
+        "author": "Paul Jennings",
+        "normalized_author": "paul jennings",
+        "image": "https://static.epub.vn/epubvn-image/optimized-cover1591857157017-51nymbe658l._sx286_bo1,204,203,200_.jpg"
+    }
+]
